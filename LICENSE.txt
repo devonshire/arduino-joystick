@@ -1,0 +1,11 @@
+Arduino Leonardo USB Digital Joystick
+=====================================
+
+Uses modified HID.cpp and USBAPI.h provided by "That Guy" at 
+http://www.imaginaryindustries.com/blog/?p=80
+(see site for license details)
+
+My sketch is licensed public domain
+
+Copyright Kevin Peat 2013
+kevin 'at' kevinpeat.com
