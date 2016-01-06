@@ -6,7 +6,7 @@ digital joystick
 
 Uses modified HID.cpp and USBAPI.h provided by "That Guy" at 
 http://www.imaginaryindustries.com/blog/?p=80
-Reposted here: http://design.lselter.co.uk/xpostturning-an-arduino-leonardo-into-a-joystick/
+Reposted here: http://design.lselter.co.uk/turning-an-arduino-leonardo-into-a-joystick/
 (see instructions there for installation and use)
 
 Developed for use with an Arduino Leonardo as it is able to act directly 
